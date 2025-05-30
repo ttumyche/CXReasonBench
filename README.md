@@ -1,4 +1,4 @@
-<h1 align="center">CXReasonBench: A Benchmark for Evaluating <br> Structured Diagnostic Reasoning in Chest X-rays</h1>
+<h1 align="center">CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays</h1>
 
 <p align="center">
   <a href="[https://arxiv.org/abs/2403.12345](https://arxiv.org/pdf/2505.18087)">
@@ -21,7 +21,7 @@ Even the strongest LVLMs evaluated struggle with structured reasoning and genera
 <p align="center">
   <img src="images/overview_chexstruct.png" alt="CheXStruct Pipeline" width="70%">
 </p>
-<p align="center"><em>Figure 1. CheXStruct: Automated pipeline for extracting structured clinical information from chest X-rays.</em></p>
+<p align="center"><em>Figure 1. CheXStruct: Automated pipeline for <br> extracting structured clinical information from chest X-rays.</em></p>
 
 <p align="center">
   <img src="images/overview_cxreasonbench.png" alt="CXReasonBench Evaluation Pipeline" width="70%">
