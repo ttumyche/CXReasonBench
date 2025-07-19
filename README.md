@@ -4,7 +4,11 @@
   <a href="[https://arxiv.org/abs/2403.12345](https://arxiv.org/pdf/2505.18087)">
     <img src="https://img.shields.io/badge/arXiv-2505.18087-b31b1b.svg" alt="arXiv">
   </a>
+   <a href="[https://huggingface.co/datasets/ttumyche/CheXStruct](https://huggingface.co/datasets/ttumyche/CheXStruct)">
+    <img src="https://img.shields.io/badge/dataset-HuggingFace-yellow.svg" alt="dataset">
+  </a>
 </p>
+
 
 ## 🖼️ Overview
 
