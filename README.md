@@ -1,10 +1,10 @@
 <h1 align="center">CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays</h1>
 
 <p align="center">
-  <a href="https://arxiv.org/pdf/2505.18087">
+  <a href="https://arxiv.org/pdf/2505.18087" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/arXiv-2505.18087-b31b1b.svg" alt="arXiv">
   </a>
-   <a href="https://huggingface.co/datasets/ttumyche/CheXStruct">
+   <a href="https://huggingface.co/datasets/ttumyche/CheXStruct" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/dataset-HuggingFace-yellow.svg" alt="dataset">
   </a>
 </p>
